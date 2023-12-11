@@ -1,0 +1,366 @@
+# depslib dependency file v1.0
+1700195132 source:g:\utn programacion\laboratorio 1\quinientosf\quinientos\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+
+1571584339 g:\utn programacion\laboratorio 1\quinientosf\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700194386 g:\utn programacion\laboratorio 1\quinientosf\quinientos\menu.h
+
+1700230343 source:g:\utn programacion\laboratorio 1\quinientosf\quinientos\dosjugadores.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
+1700228882 g:\utn programacion\laboratorio 1\quinientosf\quinientos\unjugador.h
+
+1700194386 g:\utn programacion\laboratorio 1\quinientosf\quinientos\puntuacion.h
+
+1700226333 source:g:\utn programacion\laboratorio 1\quinientosf\quinientos\main.cpp
+	<iostream>
+	"menu.h"
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+
+1700194386 g:\utn programacion\laboratorio 1\quinientosf\quinientos\dados.h
+
+1700194527 source:g:\utn programacion\laboratorio 1\quinientosf\quinientos\menu.cpp
+	<iostream>
+	"menu.h"
+	"unJugador.h"
+	"puntuacion.h"
+	<stdlib.h>
+	"rlutil.h"
+	"dosJugadores.h"
+
+1700194386 source:g:\utn programacion\laboratorio 1\quinientosf\quinientos\puntuacion.cpp
+	<iostream>
+	"unJugador.h"
+	"dosjugadores.h"
+	"menu.h"
+	"rlutil.h"
+	"puntuacion.h"
+
+1700229520 g:\utn programacion\laboratorio 1\quinientosf\quinientos\dosjugadores.h
+
+1700230343 source:g:\utn programacion\laboratorio 1\quinientosf\quinientos\unjugador.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
+1700195132 source:g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+
+1571584339 g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700194386 g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\menu.h
+
+1700232556 source:g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\dosjugadores.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
+1700591042 g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\unjugador.h
+
+1700194386 g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\puntuacion.h
+
+1700226333 source:g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\main.cpp
+	<iostream>
+	"menu.h"
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+
+1700194386 g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\dados.h
+
+1700194527 source:g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\menu.cpp
+	<iostream>
+	"menu.h"
+	"unJugador.h"
+	"puntuacion.h"
+	<stdlib.h>
+	"rlutil.h"
+	"dosJugadores.h"
+
+1700229520 g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\dosjugadores.h
+
+1700194386 source:g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\puntuacion.cpp
+	<iostream>
+	"unJugador.h"
+	"dosjugadores.h"
+	"menu.h"
+	"rlutil.h"
+	"puntuacion.h"
+
+1700589190 source:g:\utn programacion\laboratorio 1\quinientostrabajofinaterminado\quinientos\unjugador.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
+1700195134 source:c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+
+1571584340 c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700194388 c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\menu.h
+
+1700232558 source:c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\dosjugadores.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
+1700845488 c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\unjugador.h
+
+1700194388 c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\puntuacion.h
+
+1700226334 source:c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\main.cpp
+	<iostream>
+	"menu.h"
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+
+1700194388 c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\dados.h
+
+1700194528 source:c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\menu.cpp
+	<iostream>
+	"menu.h"
+	"unJugador.h"
+	"puntuacion.h"
+	<stdlib.h>
+	"rlutil.h"
+	"dosJugadores.h"
+
+1700229522 c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\dosjugadores.h
+
+1700194388 source:c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\puntuacion.cpp
+	<iostream>
+	"unJugador.h"
+	"dosjugadores.h"
+	"menu.h"
+	"rlutil.h"
+	"puntuacion.h"
+
+1700846571 source:c:\users\pc\onedrive\escritorio\quinientostrabajofinaterminado\quinientos\unjugador.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
+1700195134 source:c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+
+1571584340 c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700194388 c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\menu.h
+
+1700232558 source:c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\dosjugadores.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
+1700943213 c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\unjugador.h
+
+1700194388 c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\puntuacion.h
+
+1700226334 source:c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\main.cpp
+	<iostream>
+	"menu.h"
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+
+1700194388 c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\dados.h
+
+1700194528 source:c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\menu.cpp
+	<iostream>
+	"menu.h"
+	"unJugador.h"
+	"puntuacion.h"
+	<stdlib.h>
+	"rlutil.h"
+	"dosJugadores.h"
+
+1700943213 c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\dosjugadores.h
+
+1700194388 source:c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\puntuacion.cpp
+	<iostream>
+	"unJugador.h"
+	"dosjugadores.h"
+	"menu.h"
+	"rlutil.h"
+	"puntuacion.h"
+
+1700942606 source:c:\users\mromar95\desktop\quinientostrabajofinaterminado\quinientos\unjugador.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
+1702238915 source:c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+
+1571584340 c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700194388 c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\menu.h
+
+1702238132 source:c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\dosjugadores.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
+1700943213 c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\unjugador.h
+
+1700194388 c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\puntuacion.h
+
+1700226334 source:c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\main.cpp
+	<iostream>
+	"menu.h"
+	<ctime>
+	"rlutil.h"
+	"dados.h"
+
+1700194388 c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\dados.h
+
+1700194528 source:c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\menu.cpp
+	<iostream>
+	"menu.h"
+	"unJugador.h"
+	"puntuacion.h"
+	<stdlib.h>
+	"rlutil.h"
+	"dosJugadores.h"
+
+1701969368 c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\dosjugadores.h
+
+1700194388 source:c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\puntuacion.cpp
+	<iostream>
+	"unJugador.h"
+	"dosjugadores.h"
+	"menu.h"
+	"rlutil.h"
+	"puntuacion.h"
+
+1702292535 source:c:\users\pc\onedrive\escritorio\cosas\quinientostrabajofinaterminado\quinientos\unjugador.cpp
+	<iostream>
+	"unJugador.h"
+	"menu.h"
+	<stdlib.h>
+	<ctime>
+	<string.h>
+	"puntuacion.h"
+	"rlutil.h"
+
